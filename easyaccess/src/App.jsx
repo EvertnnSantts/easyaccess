@@ -1,10 +1,10 @@
-import SingUp from './components/SingUp'
+import SignUp from './components/SignUp'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <SingUp/>
+      <SignUp/>
     </div>
   );
 }
